@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567681825773",
+    "project_id": "payverve-eff50",
+    "storage_bucket": "payverve-eff50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567681825773:android:9817a017505edc8cb045e4",
+        "android_client_info": {
+          "package_name": "com.payverve.payverve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567681825773-vitvd7aes58m83ijd3o472hols9iqckj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA0KTXwSQt7cgalnqKA24_eoAZgD73NQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567681825773-vitvd7aes58m83ijd3o472hols9iqckj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
